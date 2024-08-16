@@ -1,3 +1,4 @@
-cow
-pig
+
+cow 
+horse
 dog
