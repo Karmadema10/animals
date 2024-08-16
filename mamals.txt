@@ -1,3 +1,3 @@
 cow
-tigers
+pig
 dog
